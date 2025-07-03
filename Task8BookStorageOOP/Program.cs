@@ -8,7 +8,7 @@ namespace BookStorage
             var book1 = new Book("Тихий Дэн", "Ozon666Games", 2025, 1);
             var book2 = new Book("Биборан", "Абдуль", 2025, 2);
             var book3 = new Book("МайнКампф", "Адольф Гитлер", 2025, 3);
-            var book4 = new Book("Бээээм", "Вазелиновое Дрисло", 2025, 4);
+            var book4 = new Book("????", "Богатый папа, бедный папа", 2025, 4);
             bk.AddBook("Тихий Дэн", "Ozon666Games", 2025, 1);
             bk.AddBook("Биборан", "Абдуль", 2025, 2);
             while (true)
